@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://pypi.org/project/autoview/"><img alt="PyPI" src="https://img.shields.io/pypi/v/autoview?color=blue"></a>
-  <a href="https://github.com/avinash-betha/autoview/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/yourusername/autoview.svg?color=green"></a>
+  <a href="https://github.com/avinash-betha/autoview/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/avinash-betha/autoview.svg?color=green"></a>
   <a href="https://github.com/avinash-betha/autoview/actions"><img alt="CI" src="https://github.com/avinash-betha/autoview/workflows/Test/badge.svg"></a>
 </p>
 
