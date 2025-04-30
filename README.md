@@ -71,7 +71,7 @@ AutoView is a powerful Python package designed to accelerate your Exploratory Da
 ## 📦 Installation
 
 ```bash
-pip install autoview  # (Coming Soon to PyPI)
+pip install autoview
 ```
 
 Or clone locally:
